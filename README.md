@@ -2,7 +2,7 @@
 ## Autor
 - Nombre: Jesus Adriana Martinez Trillas
 - Email: a23311067
-- GitHub: [@juanperez](https://github.com/juanperez)
+- GitHub: [@Alfion72](https://github.com/Alfion72)
 
 
 This template should help get you started developing with Vue 3 in Vite.
